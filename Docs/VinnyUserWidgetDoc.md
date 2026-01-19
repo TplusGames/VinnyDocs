@@ -39,7 +39,7 @@ This widget:
 - Is controlled by a **Widget Controller**
 
 👉 If you don’t know what that is, click here:  
-**[WidgetController explained](WidgetController.md)**
+**[WidgetController explained](WidgetControllerDoc.md)**
 
 ---
 
@@ -115,7 +115,7 @@ Think of it like:
 > “The widget just got its brain.”
 
 👉 That brain is explained here:  
-**[WidgetController](WidgetController.md)**
+**[WidgetController](WidgetControllerDoc.md)**
 
 ---
 

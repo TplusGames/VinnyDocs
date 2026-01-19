@@ -24,5 +24,5 @@ The UI section explains how our widgets, controllers, and HUD work together in *
 - **[VinnyHUD](VinnyHUDDoc.md)**
   > The stage manager that creates widgets and controllers, and sets up the UI for the player.
 
-
-> Tip: All UI documentation is written in **simple, step-by-step language** with examples, so anyone on the team can follow along.
+- **[VUW_Overlay](VUW_OverlayDoc.md)**
+  > Overlay class that links into WidgetControllers callback for switching widget focus (Easy toggling of active widget)

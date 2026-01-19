@@ -53,7 +53,8 @@ This is a **broadcast signal**.
 Think of it like yelling:
 > “Hey! The focus changed!”
 
-Any widget that is listening will react.
+VUW_Overlay class automatically links to this callback
+> 👉 [See VUW_Overlay for more details](VUW_OverlayDoc.md)  
 
 ---
 

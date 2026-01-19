@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\ProjectDocumentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\ProjectDocumentation.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VUW_OverlayDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\VUW_OverlayDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\WidgetControllerDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\WidgetControllerDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VinnyUserWidgetDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Docs\\VinnyUserWidgetDoc.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WidgetControllerDoc.md",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\WidgetControllerDoc.md",
+              "RelativeDocumentMoniker": "Docs\\WidgetControllerDoc.md",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\WidgetControllerDoc.md",
+              "RelativeToolTip": "Docs\\WidgetControllerDoc.md",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-19T15:45:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VinnyUserWidgetDoc.md",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VinnyUserWidgetDoc.md",
+              "RelativeDocumentMoniker": "Docs\\VinnyUserWidgetDoc.md",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VinnyUserWidgetDoc.md",
+              "RelativeToolTip": "Docs\\VinnyUserWidgetDoc.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-19T15:44:14.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VUW_OverlayDoc.md",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VUW_OverlayDoc.md",
+              "RelativeDocumentMoniker": "Docs\\VUW_OverlayDoc.md",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\VUW_OverlayDoc.md",
+              "RelativeToolTip": "Docs\\VUW_OverlayDoc.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-19T15:44:00.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectDocumentation.md",
+              "DocumentMoniker": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\ProjectDocumentation.md",
+              "RelativeDocumentMoniker": "Docs\\ProjectDocumentation.md",
+              "ToolTip": "C:\\Users\\kevin\\Documents\\Unreal Projects\\VinnyDocs\\Docs\\ProjectDocumentation.md",
+              "RelativeToolTip": "Docs\\ProjectDocumentation.md",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-19T15:26:57.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
